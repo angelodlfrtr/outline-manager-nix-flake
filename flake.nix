@@ -24,7 +24,7 @@
           pname = "outline-vpn-manager";
           version = "1.18.0";
           src = pkgs.fetchurl {
-            url = "https://s3.amazonaws.com/outline-releases/manager/linux/stable/Outline-Manager.AppImage";
+            url = "https://web.archive.org/web/20251024124534if_/https://s3.amazonaws.com/outline-releases/manager/linux/stable/Outline-Manager.AppImage";
             hash = "sha256-n0HCaXUJ/2SAd15IKJBlQ4exwF/U0UsNiL5W4FeHVYI=";
           };
         in
